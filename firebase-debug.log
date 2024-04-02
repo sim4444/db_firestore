@@ -1,0 +1,21 @@
+[debug] [2024-04-02T22:04:20.224Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T22:04:20.226Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-02T22:04:20.226Z] CLI Version:   13.6.0
+[debug] [2024-04-02T22:04:20.226Z] Platform:      win32
+[debug] [2024-04-02T22:04:20.227Z] Node Version:  v20.12.0
+[debug] [2024-04-02T22:04:20.227Z] Time:          Tue Apr 02 2024 15:04:20 GMT-0700 (Pacific Daylight Saving Time)
+[debug] [2024-04-02T22:04:20.227Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-02T22:04:20.233Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-02T22:04:20.233Z] > authorizing via signed-in user (samcanadian44@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sim44\OneDrive\Desktop\Term3_Winter_2024\ACIT 3910 - Database - Ayesha\week13
+
